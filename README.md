@@ -71,13 +71,3 @@ Test it: Open http://127.0.0.1:8000/docs in your browser.
 ### Step 66: See your Success!
 
 Refresh your GitHub main page. You will see that instead of just a list of files, there is now a **beautiful, formatted guide** below them. This is what makes you look like a pro!
-
-
-
----
-
-**Priyanka, you have officially finished Project 1!** 🏆 
-
-You went from a blank folder to a working AI API on GitHub. That is an incredible achievement for one session. 
-
-**Are you ready to move on to Project 2: Surveillance Anomaly Detection (detecting
